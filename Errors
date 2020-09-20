@@ -1,0 +1,9 @@
+As I said in the README, I did this project as a somewhat silly endeavor
+As such, there were some poor practices in my data collection
+I used 400 movies with information I got from IMDB
+This includes the top 100 and bottom 100
+The other 200 were movies I chose and not representative of a random sample
+I included budget and ROI as factors, and because ROI is derived by dividing by budget I set budgets to a small but non-zero number if they were unknown
+One of the factors is star, representing number of famous actors in the movie, but this was subjective based on who I recognized
+Finally, the factor book is meant to represent if the film was based on a book and I did not research every movie to verify if it was based on a book or not
+I don't regret these errors as there was nothing at stake but I wanted to address them for professional sake
